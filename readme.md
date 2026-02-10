@@ -47,5 +47,5 @@ This project does not claim novelty in identifying container performance overhea
 ## Team
 
 - Christian Theisen
-- David Wang  
 - An Vu
+- David Wang
